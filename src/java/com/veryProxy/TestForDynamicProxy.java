@@ -3,7 +3,7 @@ package com.veryProxy;
 import com.proxy.Child;
 import com.proxy.Parent;
 
-public class TestForVeryProxy {
+public class TestForDynamicProxy {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
